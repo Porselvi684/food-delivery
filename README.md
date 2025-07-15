@@ -1,5 +1,8 @@
 # 🍔 Food Delivery Website (MERN Stack)
 This is a full-stack Food Delivery Web Application built using the MERN stack (MongoDB, Express.js, React, Node.js). The platform provides a seamless experience for users to browse food items, place orders, manage their cart, and track their delivery. It also features user authentication and an admin dashboard to manage products and orders efficiently.
+### demolink: 
+https://food-delivery-admin-j5gt.onrender.com
+https://food-delivery-bc.onrender.com
 
 ## 🚀 Features
 👤 User Features
